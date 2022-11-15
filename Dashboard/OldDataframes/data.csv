@@ -1,0 +1,8 @@
+Regiao,Pais,Grupo,Site,BOF,Capacity,Lancas,Carros,Bico_id,Tipo,Vida,d1,d2,d3,d4,d5,d6,Convertedor,Carro,Operador,Data
+AMERICA DO SUL,BRASIL,Usiminas,Ipatinga1,1-3,75,1-13,Leste/Oeste,2,Slagless 4 Furos,0,47.00,47.00,47.00,47.00,0,0,1,Leste,Caio,21-07-2022
+AMERICA DO SUL,BRASIL,Usiminas,Ipatinga1,1-3,75,1-13,Leste/Oeste,1,Slagless 4 Furos,100,47.00,47.00,47.00,47.00,0,0,2,Leste,Caio,21-07-2022
+AMERICA DO SUL,BRASIL,Usiminas,Ipatinga1,1-3,75,1-13,Leste/Oeste,1,Slagless 4 Furos,200,47.00,47.00,47.00,47.00,0,0,2,Leste,Caio,21-07-2022
+AMERICA DO SUL,BRASIL,Usiminas,Ipatinga1,1-3,75,1-13,Leste/Oeste,2,Slagless 4 Furos,500,47.00,47.00,47.00,47.00,0,0,1,Leste,Caio,21-07-2022
+AMERICA DO SUL,BRASIL,Usiminas,Ipatinga2,4-5,166,1-10,Leste/Oeste,4,Slagless 6 Furos,0,47.00,47.00,47.00,47.00,0,0,4,Leste,Caio,21-07-2022
+AMERICA DO SUL,BRASIL,Usiminas,Ipatinga2,4-5,166,1-10,Leste/Oeste,4,Slagless 6 Furos,500,47.00,47.00,47.00,47.00,0,0,4,Leste,Caio,21-07-2022
+AMERICA DO SUL,BRASIL,Usiminas,Ipatinga1,4-5,75,1-13,Leste/Oeste,4,Slagless 4 Furos,550,47.00,47.00,47.00,47.00,0,0,4,Leste,Caio,21-07-2022

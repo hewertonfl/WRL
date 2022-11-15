@@ -1,0 +1,38 @@
+#output_diametro {
+	background-color: #FFD4D7;
+
+}
+
+#botao_liga {
+	font-weight: bold;
+}
+
+
+#label_diamet_static {
+	font-weight: bold;
+}
+
+#label_cascao_static {
+	font-weight: bold;
+	
+}
+/*
+#label_cascao_esp {
+	color: #000000;
+}
+*/
+
+#label_painel_static {
+	font-weight: bold;
+}
+
+
+#status_bar1_css {
+	color: #FFFF00;
+}
+
+
+#progressbar1 > trough > progress {
+  background-image: linear-gradient(to right, green, red);
+  background-color: red;
+}
